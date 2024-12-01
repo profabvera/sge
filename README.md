@@ -18,3 +18,9 @@ the following users:
 - Secretary
 - Director
 - Administrator
+
+## Vista Preceptor
+- ¿Qué desearía ver un preceptor?
+- -
+
+
